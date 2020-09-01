@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color:white;
+    width: 100vw;
+}
+.navbar{
+    width: 100vw;
+    height: 70px;
+    background-color: gold;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.navbar-list{
+
+}
+.navbar-list li{
+    list-style-type: none;
+}

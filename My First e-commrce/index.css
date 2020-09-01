@@ -1,0 +1,48 @@
+div img{
+    height: 50px;
+}
+body{
+    width: 90vw;
+    image: url('download3.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 80px;
+    padding: 30px;
+}
+main{
+    color: orange;
+    margin-top: 80px;
+.marg{
+    margin-top: 160px;
+}
+li{
+    color: red;
+}
+}
+div{
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+}
+div * {
+    display: inline;
+}
+div Li {
+    margin: 20px;
+}
+div li a {
+    text-decoration: none;
+    color: black;
+}
+div :hover p{
+    font-weight: 600;
+}
+h1 :hover{
+    color: aqua; 
+}
